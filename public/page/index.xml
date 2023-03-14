@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on HOMEBREW COLLAB</title>
+    <link>https://homebrewcollab.co.uk/page/</link>
+    <description>Recent content in Pages on HOMEBREW COLLAB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>info@homebrewcollab.com (Homebrew Collab)</managingEditor>
+    <webMaster>info@homebrewcollab.com (Homebrew Collab)</webMaster><atom:link href="https://homebrewcollab.co.uk/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://homebrewcollab.co.uk/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>info@homebrewcollab.com (Homebrew Collab)</author>
+      <guid>https://homebrewcollab.co.uk/page/about/</guid>
+      <description>Homebrew Collab is a homebrew club based in Bristol, UK whose aim is to promote and grow the Home Brewing Community in Bristol and South West England.
+We do this by holding collaborative brewing challenges about 4 or 5 times a year in which we typically brew to a theme or in collaboration with other breweries, clubs or businesses.
+We also have social meetups every few months where we get together to share and taste brews together.</description>
+    </item>
+    
+    <item>
+      <title>JOIN UP</title>
+      <link>https://homebrewcollab.co.uk/page/join/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>info@homebrewcollab.com (Homebrew Collab)</author>
+      <guid>https://homebrewcollab.co.uk/page/join/</guid>
+      <description>Join us on our Discord server for chatting about all things Brewing related. Got a question? Likely one us has the answer. Discord Support us by joining the club at Patreon! Join HBC on Patreon </description>
+    </item>
+    
+  </channel>
+</rss>
