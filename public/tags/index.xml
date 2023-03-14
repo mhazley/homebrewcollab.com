@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on HOMEBREW COLLAB</title>
+    <link>https://homebrewcollab.co.uk/tags/</link>
+    <description>Recent content in Tags on HOMEBREW COLLAB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>info@homebrewcollab.com (Homebrew Collab)</managingEditor>
+    <webMaster>info@homebrewcollab.com (Homebrew Collab)</webMaster>
+    <lastBuildDate>Thu, 23 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://homebrewcollab.co.uk/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>announcement</title>
+      <link>https://homebrewcollab.co.uk/tags/announcement/</link>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+      <author>info@homebrewcollab.com (Homebrew Collab)</author>
+      <guid>https://homebrewcollab.co.uk/tags/announcement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>join</title>
+      <link>https://homebrewcollab.co.uk/tags/join/</link>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+      <author>info@homebrewcollab.com (Homebrew Collab)</author>
+      <guid>https://homebrewcollab.co.uk/tags/join/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>patreon</title>
+      <link>https://homebrewcollab.co.uk/tags/patreon/</link>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+      <author>info@homebrewcollab.com (Homebrew Collab)</author>
+      <guid>https://homebrewcollab.co.uk/tags/patreon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

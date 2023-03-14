@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://homebrewcollab.co.uk/</loc>
+    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://homebrewcollab.co.uk/tags/announcement/</loc>
+    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://homebrewcollab.co.uk/tags/join/</loc>
+    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://homebrewcollab.co.uk/tags/patreon/</loc>
+    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://homebrewcollab.co.uk/post/</loc>
+    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://homebrewcollab.co.uk/tags/</loc>
+    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://homebrewcollab.co.uk/post/2023-02-23-we-are-4/</loc>
+    <lastmod>2023-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://homebrewcollab.co.uk/page/about/</loc>
+  </url><url>
+    <loc>https://homebrewcollab.co.uk/categories/</loc>
+  </url><url>
+    <loc>https://homebrewcollab.co.uk/page/join/</loc>
+  </url><url>
+    <loc>https://homebrewcollab.co.uk/page/</loc>
+  </url>
+</urlset>
