@@ -1,4 +1,4 @@
-baseurl = "https://homebrewcollab.co.uk/"
+baseurl = "https://homebrewcollab.co.uk"
 DefaultContentLanguage = "en"
 title = "HOMEBREW COLLAB"
 theme = "beautifulhugo"
