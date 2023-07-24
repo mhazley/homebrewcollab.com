@@ -60,3 +60,4 @@ pygmentsCodefencesGuessSyntax = true
     name = "aws"
     # S3; see https://gocloud.dev/howto/blob/#s3
     URL = "s3://www.homebrewcollab.co.uk?region=eu-west-1"
+    cloudFrontDistributionID = "E1B1AEPW40ASWR"
