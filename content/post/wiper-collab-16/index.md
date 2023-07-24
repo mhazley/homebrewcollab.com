@@ -30,4 +30,5 @@ Here's some photos from the night:
 {{< figure thumb="" link="/images/c16/6.jpg" >}}
 {{< figure thumb="" link="/images/c16/7.jpg" >}}
 {{< figure thumb="" link="/images/c16/8.jpg" >}}
+{{< figure thumb="" link="/images/c16/9.jpg" >}}
 {{< /gallery >}}
