@@ -2,48 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://homebrewcollab.co.uk/</loc>
-    <lastmod>2023-05-10T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2023-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://homebrewcollab.co.uk/tags/collab/</loc>
-    <lastmod>2023-05-10T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/collab/</loc>
+    <lastmod>2023-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://homebrewcollab.co.uk/post/wiper-collab-16/</loc>
-    <lastmod>2023-05-10T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/post/wiper-collab-16/</loc>
+    <lastmod>2023-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://homebrewcollab.co.uk/post/</loc>
-    <lastmod>2023-05-10T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2023-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://homebrewcollab.co.uk/tags/</loc>
-    <lastmod>2023-05-10T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2023-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://homebrewcollab.co.uk/tags/wiper/</loc>
-    <lastmod>2023-05-10T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/wiper/</loc>
+    <lastmod>2023-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://homebrewcollab.co.uk/post/rab-and-yakima/</loc>
+    <loc>http://localhost:1313/post/rab-and-yakima/</loc>
     <lastmod>2023-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://homebrewcollab.co.uk/tags/hops/</loc>
+    <loc>http://localhost:1313/tags/hops/</loc>
     <lastmod>2023-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://homebrewcollab.co.uk/tags/announcement/</loc>
+    <loc>http://localhost:1313/tags/announcement/</loc>
     <lastmod>2023-02-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://homebrewcollab.co.uk/tags/join/</loc>
+    <loc>http://localhost:1313/tags/join/</loc>
     <lastmod>2023-02-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://homebrewcollab.co.uk/tags/patreon/</loc>
+    <loc>http://localhost:1313/tags/patreon/</loc>
     <lastmod>2023-02-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://homebrewcollab.co.uk/post/2023-02-23-we-are-4/</loc>
+    <loc>http://localhost:1313/post/2023-02-23-we-are-4/</loc>
     <lastmod>2023-02-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://homebrewcollab.co.uk/page/about/</loc>
+    <loc>http://localhost:1313/page/about/</loc>
   </url><url>
-    <loc>https://homebrewcollab.co.uk/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://homebrewcollab.co.uk/page/join/</loc>
+    <loc>http://localhost:1313/page/join/</loc>
   </url><url>
-    <loc>https://homebrewcollab.co.uk/page/</loc>
+    <loc>http://localhost:1313/page/</loc>
   </url>
 </urlset>

@@ -1,35 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>collab on HOMEBREW COLLAB</title>
-    <link>https://homebrewcollab.co.uk/tags/collab/</link>
-    <description>Recent content in collab on HOMEBREW COLLAB</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Collab on HOMEBREW COLLAB</title>
+    <link>http://localhost:1313/tags/collab/</link>
+    <description>Recent content in Collab on HOMEBREW COLLAB</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <managingEditor>info@homebrewcollab.com (Homebrew Collab)</managingEditor>
-    <webMaster>info@homebrewcollab.com (Homebrew Collab)</webMaster>
-    <lastBuildDate>Wed, 10 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://homebrewcollab.co.uk/tags/collab/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/collab/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Collab 16</title>
-      <link>https://homebrewcollab.co.uk/post/wiper-collab-16/</link>
-      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
-      <author>info@homebrewcollab.com (Homebrew Collab)</author>
-      <guid>https://homebrewcollab.co.uk/post/wiper-collab-16/</guid>
-      <description>For Collab #16, we visited the Bristol stalwarts Wiper and True at their beautiful Old Market Taproom.
-The idea was really simple and fun - we were tasked with designing a beer in the same way that Wiper and True design a beer and then the end goal was to make that beer and then collectively judge it against the design.
-Wiper steers away from the overly clunky BJCP guidelines and has developed a set of criteria that they design a beer against.</description>
+      <link>http://localhost:1313/post/wiper-collab-16/</link>
+      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/wiper-collab-16/</guid>
+      <description>&lt;p&gt;For Collab #16, we visited the Bristol stalwarts &lt;a href=&#34;https://wiperandtrue.com/&#34;&gt;Wiper and True&lt;/a&gt; at their beautiful&#xA;&lt;a href=&#34;https://wiperandtrue.com/pages/the-wiper-and-true-taproom-old-market-bristol&#34;&gt;Old Market Taproom&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The idea was really simple and fun - we were tasked with designing a beer in the same way that Wiper and True design a&#xA;beer and then the end goal was to make that beer and then collectively judge it against the design.&lt;/p&gt;&#xA;&lt;p&gt;Wiper steers away from the overly clunky BJCP guidelines and has developed a set of criteria that they design a beer&#xA;against. These criteria are much more about how the beer looks, feels and tastes, rather than trying to ram it into a&#xA;complex style specification.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Collab 15</title>
-      <link>https://homebrewcollab.co.uk/post/rab-and-yakima/</link>
+      <link>http://localhost:1313/post/rab-and-yakima/</link>
       <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
-      <author>info@homebrewcollab.com (Homebrew Collab)</author>
-      <guid>https://homebrewcollab.co.uk/post/rab-and-yakima/</guid>
-      <description>Our friends at Reading Amateur Brewers invited us to collaborate with themselves and Yakima Chief! What an opportunity!
-A squad of HBC brewers hopped on the train to Reading on Thursday 9th March, to meet at Phantom Brewing Co. and get some chat and hop smelling with the legends that are Yakima Chief.
-On the night we delved into the details of some experimental HBC Hops that Yakmia will be sending out to us for some experimental brews.</description>
+      <guid>http://localhost:1313/post/rab-and-yakima/</guid>
+      <description>&lt;p&gt;Our friends at &lt;a href=&#34;https://www.readingamateurbrewers.co.uk/&#34;&gt;Reading Amateur Brewers&lt;/a&gt; invited us to collaborate with&#xA;themselves and Yakima Chief! What an opportunity!&lt;/p&gt;&#xA;&lt;p&gt;A squad of HBC brewers hopped on the train to Reading on Thursday 9th March, to meet at&#xA;&lt;a href=&#34;https://www.phantombrew.com/&#34;&gt;Phantom Brewing Co.&lt;/a&gt; and get some chat and hop smelling with the legends that are&#xA;&lt;a href=&#34;https://www.yakimachief.com/&#34;&gt;Yakima Chief&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;On the night we delved into the details of some experimental HBC Hops that Yakmia will be sending out to us for some&#xA;experimental brews.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hops on HOMEBREW COLLAB</title>
-    <link>https://homebrewcollab.co.uk/tags/hops/</link>
-    <description>Recent content in hops on HOMEBREW COLLAB</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Hops on HOMEBREW COLLAB</title>
+    <link>http://localhost:1313/tags/hops/</link>
+    <description>Recent content in Hops on HOMEBREW COLLAB</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <managingEditor>info@homebrewcollab.com (Homebrew Collab)</managingEditor>
-    <webMaster>info@homebrewcollab.com (Homebrew Collab)</webMaster>
-    <lastBuildDate>Tue, 14 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://homebrewcollab.co.uk/tags/hops/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Collab 15</title>
-      <link>https://homebrewcollab.co.uk/post/rab-and-yakima/</link>
+      <link>http://localhost:1313/post/rab-and-yakima/</link>
       <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
-      <author>info@homebrewcollab.com (Homebrew Collab)</author>
-      <guid>https://homebrewcollab.co.uk/post/rab-and-yakima/</guid>
-      <description>Our friends at Reading Amateur Brewers invited us to collaborate with themselves and Yakima Chief! What an opportunity!
-A squad of HBC brewers hopped on the train to Reading on Thursday 9th March, to meet at Phantom Brewing Co. and get some chat and hop smelling with the legends that are Yakima Chief.
-On the night we delved into the details of some experimental HBC Hops that Yakmia will be sending out to us for some experimental brews.</description>
+      <guid>http://localhost:1313/post/rab-and-yakima/</guid>
+      <description>&lt;p&gt;Our friends at &lt;a href=&#34;https://www.readingamateurbrewers.co.uk/&#34;&gt;Reading Amateur Brewers&lt;/a&gt; invited us to collaborate with&#xA;themselves and Yakima Chief! What an opportunity!&lt;/p&gt;&#xA;&lt;p&gt;A squad of HBC brewers hopped on the train to Reading on Thursday 9th March, to meet at&#xA;&lt;a href=&#34;https://www.phantombrew.com/&#34;&gt;Phantom Brewing Co.&lt;/a&gt; and get some chat and hop smelling with the legends that are&#xA;&lt;a href=&#34;https://www.yakimachief.com/&#34;&gt;Yakima Chief&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;On the night we delved into the details of some experimental HBC Hops that Yakmia will be sending out to us for some&#xA;experimental brews.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

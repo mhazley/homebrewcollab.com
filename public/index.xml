@@ -2,64 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HOMEBREW COLLAB</title>
-    <link>https://homebrewcollab.co.uk/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on HOMEBREW COLLAB</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <managingEditor>info@homebrewcollab.com (Homebrew Collab)</managingEditor>
-    <webMaster>info@homebrewcollab.com (Homebrew Collab)</webMaster>
-    <lastBuildDate>Wed, 10 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://homebrewcollab.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Collab 23</title>
+      <link>http://localhost:1313/post/collab-23-christmas-reel-ales/</link>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/collab-23-christmas-reel-ales/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s that time of year already - Christmas! Well, at least time to announce the our annual challenge. This year, our theme is Christma Movies!&lt;/p&gt;&#xA;&lt;p&gt;How does it work you ask? Well, two brewers get paired up and randomly assigned a movie title. Your job is to collaborate and brew something inspired by the film. Maybe the title? Maybe a character, or a line of dialog? Perhaps a scene that has inspired you? Or something incredibly tenuous? Doesn&amp;rsquo;t matter, work it out together (and explain the connection).&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Collab 16</title>
-      <link>https://homebrewcollab.co.uk/post/wiper-collab-16/</link>
-      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
-      <author>info@homebrewcollab.com (Homebrew Collab)</author>
-      <guid>https://homebrewcollab.co.uk/post/wiper-collab-16/</guid>
-      <description>For Collab #16, we visited the Bristol stalwarts Wiper and True at their beautiful Old Market Taproom.
-The idea was really simple and fun - we were tasked with designing a beer in the same way that Wiper and True design a beer and then the end goal was to make that beer and then collectively judge it against the design.
-Wiper steers away from the overly clunky BJCP guidelines and has developed a set of criteria that they design a beer against.</description>
+      <link>http://localhost:1313/post/wiper-collab-16/</link>
+      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/wiper-collab-16/</guid>
+      <description>&lt;p&gt;For Collab #16, we visited the Bristol stalwarts &lt;a href=&#34;https://wiperandtrue.com/&#34;&gt;Wiper and True&lt;/a&gt; at their beautiful&#xA;&lt;a href=&#34;https://wiperandtrue.com/pages/the-wiper-and-true-taproom-old-market-bristol&#34;&gt;Old Market Taproom&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The idea was really simple and fun - we were tasked with designing a beer in the same way that Wiper and True design a&#xA;beer and then the end goal was to make that beer and then collectively judge it against the design.&lt;/p&gt;&#xA;&lt;p&gt;Wiper steers away from the overly clunky BJCP guidelines and has developed a set of criteria that they design a beer&#xA;against. These criteria are much more about how the beer looks, feels and tastes, rather than trying to ram it into a&#xA;complex style specification.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Collab 15</title>
-      <link>https://homebrewcollab.co.uk/post/rab-and-yakima/</link>
+      <link>http://localhost:1313/post/rab-and-yakima/</link>
       <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
-      <author>info@homebrewcollab.com (Homebrew Collab)</author>
-      <guid>https://homebrewcollab.co.uk/post/rab-and-yakima/</guid>
-      <description>Our friends at Reading Amateur Brewers invited us to collaborate with themselves and Yakima Chief! What an opportunity!
-A squad of HBC brewers hopped on the train to Reading on Thursday 9th March, to meet at Phantom Brewing Co. and get some chat and hop smelling with the legends that are Yakima Chief.
-On the night we delved into the details of some experimental HBC Hops that Yakmia will be sending out to us for some experimental brews.</description>
+      <guid>http://localhost:1313/post/rab-and-yakima/</guid>
+      <description>&lt;p&gt;Our friends at &lt;a href=&#34;https://www.readingamateurbrewers.co.uk/&#34;&gt;Reading Amateur Brewers&lt;/a&gt; invited us to collaborate with&#xA;themselves and Yakima Chief! What an opportunity!&lt;/p&gt;&#xA;&lt;p&gt;A squad of HBC brewers hopped on the train to Reading on Thursday 9th March, to meet at&#xA;&lt;a href=&#34;https://www.phantombrew.com/&#34;&gt;Phantom Brewing Co.&lt;/a&gt; and get some chat and hop smelling with the legends that are&#xA;&lt;a href=&#34;https://www.yakimachief.com/&#34;&gt;Yakima Chief&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;On the night we delved into the details of some experimental HBC Hops that Yakmia will be sending out to us for some&#xA;experimental brews.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>We are almost 4!</title>
-      <link>https://homebrewcollab.co.uk/post/2023-02-23-we-are-4/</link>
+      <link>http://localhost:1313/post/2023-02-23-we-are-4/</link>
       <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
-      <author>info@homebrewcollab.com (Homebrew Collab)</author>
-      <guid>https://homebrewcollab.co.uk/post/2023-02-23-we-are-4/</guid>
-      <description>We are almost 4 years old! Crazy to think we&amp;rsquo;ve grown so much and had so many great collabs over the past few years. We&amp;rsquo;ve become better brewers through it all and 2022 and early 2023 have seen us bag loads of medals at prestigious national comps!
-With age comes reflection though and for a while we&amp;rsquo;ve been thinking of how we can run HBC a little better and make it more sustainable going forward.</description>
+      <guid>http://localhost:1313/post/2023-02-23-we-are-4/</guid>
+      <description>&lt;p&gt;We are almost 4 years old! Crazy to think we&amp;rsquo;ve grown so much and had so many great collabs over the past few years.&#xA;We&amp;rsquo;ve become better brewers through it all and 2022 and early 2023 have seen us bag loads of medals at prestigious&#xA;national comps!&lt;/p&gt;&#xA;&lt;p&gt;With age comes reflection though and for a while we&amp;rsquo;ve been thinking of how we can run HBC a little better and make it&#xA;more sustainable going forward. We think it&amp;rsquo;s time to kick off a few changes.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
-      <link>https://homebrewcollab.co.uk/page/about/</link>
+      <link>http://localhost:1313/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>info@homebrewcollab.com (Homebrew Collab)</author>
-      <guid>https://homebrewcollab.co.uk/page/about/</guid>
-      <description>Homebrew Collab is a homebrew club based in Bristol, UK whose aim is to promote and grow the Home Brewing Community in Bristol and South West England.
-We do this by holding collaborative brewing challenges about 4 or 5 times a year in which we typically brew to a theme or in collaboration with other breweries, clubs or businesses.
-We also have social meetups every few months where we get together to share and taste brews together.</description>
+      <guid>http://localhost:1313/page/about/</guid>
+      <description>&lt;p&gt;Homebrew Collab is a homebrew club based in Bristol, UK whose aim is to promote and grow the Home Brewing Community in&#xA;Bristol and South West England.&lt;/p&gt;&#xA;&lt;p&gt;We do this by holding collaborative brewing challenges about 4 or 5 times a year in which we typically brew to a theme&#xA;or in collaboration with other breweries, clubs or businesses.&lt;/p&gt;&#xA;&lt;p&gt;We also have social meetups every few months where we get together to share and taste brews together.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>JOIN UP</title>
-      <link>https://homebrewcollab.co.uk/page/join/</link>
+      <link>http://localhost:1313/page/join/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>info@homebrewcollab.com (Homebrew Collab)</author>
-      <guid>https://homebrewcollab.co.uk/page/join/</guid>
-      <description>Join us on our Discord server for chatting about all things Brewing related. Got a question? Likely one us has the answer. Discord Support us by joining the club at Patreon! Join HBC on Patreon </description>
+      <guid>http://localhost:1313/page/join/</guid>
+      <description>&lt;p&gt;Join us on our Discord server for chatting about all things Brewing related. Got a question? Likely one us has&#xA;the answer.&#xA;&lt;div class=&#34;cta&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;https://discord.gg/eKzsEtQpDH&#34;&gt;&#xD;&#xA;        &lt;button&gt;&#xD;&#xA;            Discord&#xD;&#xA;        &lt;/button&gt;&#xD;&#xA;    &lt;/a&gt;&#xD;&#xA;&lt;/div&gt;&lt;/p&gt;&#xA;&lt;p&gt;Support us by joining the club at Patreon!&#xA;&lt;div class=&#34;patreon&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;https://www.patreon.com/bePatron?u=89487637&#34; data-patreon-widget-type=&#34;become-patron-button&#34;&gt;&#xD;&#xA;        Join HBC on Patreon&#xD;&#xA;    &lt;/a&gt;&#xD;&#xA;    &lt;script async src=&#34;https://c6.patreon.com/becomePatronButton.bundle.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;/div&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

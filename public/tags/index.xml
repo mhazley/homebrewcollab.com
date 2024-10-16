@@ -2,66 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on HOMEBREW COLLAB</title>
-    <link>https://homebrewcollab.co.uk/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on HOMEBREW COLLAB</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <managingEditor>info@homebrewcollab.com (Homebrew Collab)</managingEditor>
-    <webMaster>info@homebrewcollab.com (Homebrew Collab)</webMaster>
-    <lastBuildDate>Wed, 10 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://homebrewcollab.co.uk/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>collab</title>
-      <link>https://homebrewcollab.co.uk/tags/collab/</link>
-      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
-      <author>info@homebrewcollab.com (Homebrew Collab)</author>
-      <guid>https://homebrewcollab.co.uk/tags/collab/</guid>
+      <title>Collab</title>
+      <link>http://localhost:1313/tags/collab/</link>
+      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/collab/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>wiper</title>
-      <link>https://homebrewcollab.co.uk/tags/wiper/</link>
-      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
-      <author>info@homebrewcollab.com (Homebrew Collab)</author>
-      <guid>https://homebrewcollab.co.uk/tags/wiper/</guid>
+      <title>Wiper</title>
+      <link>http://localhost:1313/tags/wiper/</link>
+      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/wiper/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>hops</title>
-      <link>https://homebrewcollab.co.uk/tags/hops/</link>
+      <title>Hops</title>
+      <link>http://localhost:1313/tags/hops/</link>
       <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
-      <author>info@homebrewcollab.com (Homebrew Collab)</author>
-      <guid>https://homebrewcollab.co.uk/tags/hops/</guid>
+      <guid>http://localhost:1313/tags/hops/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>announcement</title>
-      <link>https://homebrewcollab.co.uk/tags/announcement/</link>
+      <title>Announcement</title>
+      <link>http://localhost:1313/tags/announcement/</link>
       <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
-      <author>info@homebrewcollab.com (Homebrew Collab)</author>
-      <guid>https://homebrewcollab.co.uk/tags/announcement/</guid>
+      <guid>http://localhost:1313/tags/announcement/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>join</title>
-      <link>https://homebrewcollab.co.uk/tags/join/</link>
+      <title>Join</title>
+      <link>http://localhost:1313/tags/join/</link>
       <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
-      <author>info@homebrewcollab.com (Homebrew Collab)</author>
-      <guid>https://homebrewcollab.co.uk/tags/join/</guid>
+      <guid>http://localhost:1313/tags/join/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>patreon</title>
-      <link>https://homebrewcollab.co.uk/tags/patreon/</link>
+      <title>Patreon</title>
+      <link>http://localhost:1313/tags/patreon/</link>
       <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
-      <author>info@homebrewcollab.com (Homebrew Collab)</author>
-      <guid>https://homebrewcollab.co.uk/tags/patreon/</guid>
+      <guid>http://localhost:1313/tags/patreon/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
