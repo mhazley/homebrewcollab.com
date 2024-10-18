@@ -2,7 +2,7 @@
 title: Collab 23
 subtitle: Christmas Reel Ales
 date: 2024-10-16
-tags: ["collab","christmas"]
+tags: ["collab","christmas","wiper"]
 author: Paul
 ---
 

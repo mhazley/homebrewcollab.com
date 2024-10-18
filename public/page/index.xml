@@ -12,7 +12,7 @@
       <link>http://localhost:1313/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/page/about/</guid>
-      <description>&lt;p&gt;Homebrew Collab is a homebrew club based in Bristol, UK whose aim is to promote and grow the Home Brewing Community in&#xA;Bristol and South West England.&lt;/p&gt;&#xA;&lt;p&gt;We do this by holding collaborative brewing challenges about 4 or 5 times a year in which we typically brew to a theme&#xA;or in collaboration with other breweries, clubs or businesses.&lt;/p&gt;&#xA;&lt;p&gt;We also have social meetups every few months where we get together to share and taste brews together.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Established in 2019, Homebrew Collab is a homebrew club based in Bristol. Our aim is to promote and grow the Home Brewing Community in Bristol and South West England.&lt;/p&gt;&#xA;&lt;p&gt;We do this by holding regular collaborative brewing challenges 4 or 5 times a year in which we typically brew to a theme&#xA;or in collaboration with other breweries, clubs or businesses. These challenges encourage our brewers to try our new ingedients, beer styles, or techniques, while working together to craft the perfect beer.&lt;/p&gt;</description>
     </item>
     <item>
       <title>JOIN UP</title>
@@ -20,6 +20,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/page/join/</guid>
       <description>&lt;p&gt;Join us on our Discord server for chatting about all things Brewing related. Got a question? Likely one us has&#xA;the answer.&#xA;&lt;div class=&#34;cta&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;https://discord.gg/eKzsEtQpDH&#34;&gt;&#xD;&#xA;        &lt;button&gt;&#xD;&#xA;            Discord&#xD;&#xA;        &lt;/button&gt;&#xD;&#xA;    &lt;/a&gt;&#xD;&#xA;&lt;/div&gt;&lt;/p&gt;&#xA;&lt;p&gt;Support us by joining the club at Patreon!&#xA;&lt;div class=&#34;patreon&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;https://www.patreon.com/bePatron?u=89487637&#34; data-patreon-widget-type=&#34;become-patron-button&#34;&gt;&#xD;&#xA;        Join HBC on Patreon&#xD;&#xA;    &lt;/a&gt;&#xD;&#xA;    &lt;script async src=&#34;https://c6.patreon.com/becomePatronButton.bundle.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;/div&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SHOP</title>
+      <link>http://localhost:1313/page/shop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/page/shop/</guid>
+      <description>&lt;div id=&#34;my-store-90734744&#34;&gt;&lt;/div&gt;&#xD;&#xA;&lt;div&gt;&#xD;&#xA;&lt;script data-cfasync=&#34;false&#34; type=&#34;text/javascript&#34; src=&#34;https://app.ecwid.com/script.js?90734744&amp;data_platform=code&amp;data_date=2023-08-12&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text/javascript&#34;&gt; xProductBrowser(&#34;categoriesPerRow=3&#34;,&#34;views=grid(20,3) list(60) table(60)&#34;,&#34;categoryView=grid&#34;,&#34;searchView=list&#34;,&#34;id=my-store-90734744&#34;);&lt;/script&gt;&#xD;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>
