@@ -44,6 +44,13 @@
       <description>&lt;p&gt;Established in 2019, Homebrew Collab is a homebrew club based in Bristol. Our aim is to promote and grow the Home Brewing Community in Bristol and South West England.&lt;/p&gt;&#xA;&lt;p&gt;We do this by holding regular collaborative brewing challenges 4 or 5 times a year in which we typically brew to a theme&#xA;or in collaboration with other breweries, clubs or businesses. These challenges encourage our brewers to try our new ingedients, beer styles, or techniques, while working together to craft the perfect beer.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>EVENTS</title>
+      <link>http://localhost:1313/page/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/page/events/</guid>
+      <description>&lt;iframe src=&#34;https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;ctz=Europe%2FLondon&amp;bgcolor=%23ffffff&amp;mode=AGENDA&amp;hl=en_GB&amp;showTitle=0&amp;showDate=0&amp;showNav=0&amp;showTabs=0&amp;showCalendars=0&amp;showPrint=0&amp;src=cGF1bEBob21lYnJld2NvbGxhYi5jby51aw&amp;color=%23039BE5&#34; style=&#34;border:solid 1px #777&#34; width=&#34;100%&#34; height=&#34;300&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
       <title>JOIN UP</title>
       <link>http://localhost:1313/page/join/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
