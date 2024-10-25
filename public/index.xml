@@ -6,8 +6,15 @@
     <description>Recent content on HOMEBREW COLLAB</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>October 2024 Meetup</title>
+      <link>http://localhost:1313/post/2024-10-25-october-meet/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2024-10-25-october-meet/</guid>
+      <description>&lt;p&gt;Another great night out at Wiper and True&amp;rsquo;s Taproom, and our special annual announcement of the Christmas challenge pairings. Each year, brewers signup to the challenge, to get paired up and random and their challenge assigned. This year they will need to brew something inspired by their assigned Christmas movie.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Movie&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Brewers&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;The Santa Clause&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Ian &amp;amp; Dan&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Jingle All The Way&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Pete &amp;amp; Rob&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Gremlins&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Matt &amp;amp; Sam&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;The Grinch&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Remy &amp;amp; Ben&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Die Hard&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Kendon &amp;amp; Will&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Home Alone&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Euan &amp;amp; Paul&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;We all have until the Christmas meetup on the 18th December back at Wiper to present our finest work.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Collab 23</title>
       <link>http://localhost:1313/post/collab-23-christmas-reel-ales/</link>
@@ -48,7 +55,7 @@
       <link>http://localhost:1313/page/events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/page/events/</guid>
-      <description>&lt;iframe src=&#34;https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;ctz=Europe%2FLondon&amp;bgcolor=%23ffffff&amp;mode=AGENDA&amp;hl=en_GB&amp;showTitle=0&amp;showDate=0&amp;showNav=0&amp;showTabs=0&amp;showCalendars=0&amp;showPrint=0&amp;src=cGF1bEBob21lYnJld2NvbGxhYi5jby51aw&amp;color=%23039BE5&#34; style=&#34;border:solid 1px #777&#34; width=&#34;100%&#34; height=&#34;300&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;</description>
+      <description>&lt;iframe src=&#34;https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;ctz=Europe%2FLondon&amp;bgcolor=%23ffffff&amp;mode=AGENDA&amp;hl=en_GB&amp;showTitle=0&amp;showDate=0&amp;showNav=0&amp;showTabs=0&amp;showCalendars=0&amp;showPrint=0&amp;src=cGF1bEBob21lYnJld2NvbGxhYi5jby51aw&amp;color=%23039BE5&#34; style=&#34;border:solid 1px #777&#34; width=&#34;100%&#34; height=&#34;450&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>JOIN UP</title>

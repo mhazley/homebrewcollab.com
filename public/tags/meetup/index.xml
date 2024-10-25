@@ -1,33 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wiper on HOMEBREW COLLAB</title>
-    <link>http://localhost:1313/tags/wiper/</link>
-    <description>Recent content in Wiper on HOMEBREW COLLAB</description>
+    <title>Meetup on HOMEBREW COLLAB</title>
+    <link>http://localhost:1313/tags/meetup/</link>
+    <description>Recent content in Meetup on HOMEBREW COLLAB</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 25 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/wiper/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>October 2024 Meetup</title>
       <link>http://localhost:1313/post/2024-10-25-october-meet/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/2024-10-25-october-meet/</guid>
       <description>&lt;p&gt;Another great night out at Wiper and True&amp;rsquo;s Taproom, and our special annual announcement of the Christmas challenge pairings. Each year, brewers signup to the challenge, to get paired up and random and their challenge assigned. This year they will need to brew something inspired by their assigned Christmas movie.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Movie&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Brewers&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;The Santa Clause&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Ian &amp;amp; Dan&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Jingle All The Way&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Pete &amp;amp; Rob&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Gremlins&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Matt &amp;amp; Sam&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;The Grinch&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Remy &amp;amp; Ben&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Die Hard&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Kendon &amp;amp; Will&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Home Alone&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Euan &amp;amp; Paul&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;We all have until the Christmas meetup on the 18th December back at Wiper to present our finest work.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Collab 23</title>
-      <link>http://localhost:1313/post/collab-23-christmas-reel-ales/</link>
-      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/collab-23-christmas-reel-ales/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s that time of year already - Christmas! Well, at least time to announce the our annual challenge. This year, our theme is Christma Movies!&lt;/p&gt;&#xA;&lt;p&gt;How does it work you ask? Well, two brewers get paired up and randomly assigned a movie title. Your job is to collaborate and brew something inspired by the film. Maybe the title? Maybe a character, or a line of dialog? Perhaps a scene that has inspired you? Or something incredibly tenuous? Doesn&amp;rsquo;t matter, work it out together (and explain the connection).&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Collab 16</title>
-      <link>http://localhost:1313/post/wiper-collab-16/</link>
-      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/wiper-collab-16/</guid>
-      <description>&lt;p&gt;For Collab #16, we visited the Bristol stalwarts &lt;a href=&#34;https://wiperandtrue.com/&#34;&gt;Wiper and True&lt;/a&gt; at their beautiful&#xA;&lt;a href=&#34;https://wiperandtrue.com/pages/the-wiper-and-true-taproom-old-market-bristol&#34;&gt;Old Market Taproom&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The idea was really simple and fun - we were tasked with designing a beer in the same way that Wiper and True design a&#xA;beer and then the end goal was to make that beer and then collectively judge it against the design.&lt;/p&gt;&#xA;&lt;p&gt;Wiper steers away from the overly clunky BJCP guidelines and has developed a set of criteria that they design a beer&#xA;against. These criteria are much more about how the beer looks, feels and tastes, rather than trying to ram it into a&#xA;complex style specification.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

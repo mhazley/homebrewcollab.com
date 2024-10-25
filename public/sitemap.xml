@@ -3,24 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/christmas/</loc>
-    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/collab/</loc>
-    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/collab-23-christmas-reel-ales/</loc>
-    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/meetup/</loc>
+    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/2024-10-25-october-meet/</loc>
+    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/wiper/</loc>
+    <lastmod>2024-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/collab-23-christmas-reel-ales/</loc>
     <lastmod>2024-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/wiper-collab-16/</loc>
