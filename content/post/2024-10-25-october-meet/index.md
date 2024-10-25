@@ -31,6 +31,9 @@ In addition to the annual challenge admin we opened a few bottles of our own bee
 | Paul | Willamette Falls IPA | English IPA | 6.4% |
 | Paul & Matt | Surveyor | American Barley Wine | 8.4% |
 
+
+As usual, the beer quality was exceptionally high, with a few sore heads this morning!
+
 {{< gallery >}}
 {{< figure thumb="" link="/images/2024/10/1.jpg" >}}
 {{< figure thumb="" link="/images/2024/10/2.jpg" >}}
