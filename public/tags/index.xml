@@ -9,6 +9,20 @@
     <lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Elmers</title>
+      <link>http://localhost:1313/tags/elmers/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/elmers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Swan</title>
+      <link>http://localhost:1313/tags/swan/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/swan/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Wiper</title>
       <link>http://localhost:1313/tags/wiper/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>

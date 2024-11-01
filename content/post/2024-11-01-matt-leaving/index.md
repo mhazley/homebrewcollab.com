@@ -18,7 +18,7 @@ I know for a fact Matt will be making regular trips back to Bristol and we now h
 
 
 {{< gallery >}}
-{{< figure thumb="" link="/images/2024/11/1.jpg" >}}
+{{< figure link="/images/2024/11/1.jpg" >}}
 {{< figure thumb="" link="/images/2024/11/2.jpg" >}}
 {{< figure thumb="" link="/images/2024/11/3.jpg" >}}
 {{< figure thumb="" link="/images/2024/11/4.jpg" >}}
