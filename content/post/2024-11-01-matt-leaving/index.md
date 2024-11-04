@@ -12,7 +12,7 @@ Starting at the Swan with Two Necks the group quickly grew, bringing friends tog
 
 As all good nights in Bristol must go, a few stragglers made it to Elmers for just one more, which always guarantees a headache the following morning.
 
-Matt’s passion and dedicated was the driving force in setting up the club in 2019, and attracting high quality, skilled homebrewers from all over Bristol and the South West. His absence at the club meets will be felt immediately, and more importantly his beers will be missed. 
+Matt’s passion and dedication was the driving force in setting up the club in 2019, and attracting high quality, skilled homebrewers from all over Bristol and the South West. His absence at the club meets will be felt immediately, and more importantly his beers will be missed. 
 
 I know for a fact Matt will be making regular trips back to Bristol and we now have plenty of excuses for club trips to Belfast in 2025 and beyond, so this isn’t the end, just an exciting new chapter. On behalf of everyone from the club, we wish Matt and Nic all the best for their new adventures.
 
