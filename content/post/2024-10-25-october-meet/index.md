@@ -34,4 +34,9 @@ In addition to the annual challenge admin we opened a few bottles of our own bee
 
 As usual, the beer quality was exceptionally high, with a few sore heads this morning!
 
-{{< gallery dir="/images/2024/10/" />}}
+{{< gallery >}}
+{{< figure thumb="" link="/images/2024/10/1.jpg" >}}
+{{< figure thumb="" link="/images/2024/10/2.jpg" >}}
+{{< figure thumb="" link="/images/2024/10/3.jpg" >}}
+{{< figure thumb="" link="/images/2024/10/4.jpg" >}}
+{{< /gallery >}}
